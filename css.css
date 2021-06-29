@@ -8,8 +8,8 @@ padding: 0px;
 display: flex;
 
 justify-content: space-between;
-background-color:#d4ced0d4;
-
+background-color:#653bfad4;
+border: 2px solid darkseagreen;
 position: sticky;
 top: 0;
 z-index: 1;
